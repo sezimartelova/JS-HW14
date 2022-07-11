@@ -1,1 +1,1 @@
-https://github.com/sezimartelova/JS-HW14.git
+#JS-HW14http://127.0.0.1:5500/index.html
